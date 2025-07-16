@@ -1,0 +1,28 @@
+body{
+  background-color: aqua;
+  display: flex;
+  justify-content: center;
+}
+#container{
+    padding: 15px;
+    background-color: black;
+    border-radius: 45px;
+    margin-top: 15vh;
+}
+.signal{
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    background-color: grey;
+    margin: 20px;
+
+}
+.red:hover{
+  background-color: red;
+}
+.yellow:hover{
+  background-color: yellow;
+}
+.green:hover{
+  background-color: green;
+}
